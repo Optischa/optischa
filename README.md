@@ -25,8 +25,8 @@
 const optischa = {
   name: "Optischa",
   location: "Germany 🇩🇪",
-  focus: ["Web Development", "Backend", "Discord & TeamSpeak Bots"],
-  currentlyLearning: ["NestJS", "Nx Monorepos", "AWS"],
+  focus: ["Web Development", "Backend", "Infrastructure", "Security"],
+  currentlyLearning: ["Rust"],
   discord: "@optischa",
   funFact: "Turning coffee into code ☕ → 💻",
 };
