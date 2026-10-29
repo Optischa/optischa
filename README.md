@@ -37,6 +37,7 @@ const optischa = {
 ## 🤝 Open Source Contributions
 
 <!--START_SECTION:forks-->
+[![nx](https://img.shields.io/badge/work-eversit%2Fwork-8b5cf6?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/nrwl/nx](https://github.com/EversIT/work))
 [![nx](https://img.shields.io/badge/nx-nrwl%2Fnx-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nrwl/nx)
 [![oss](https://img.shields.io/badge/oss-gperdomor%2Foss-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gperdomor/oss)
 [![aws-extend-switch-roles](https://img.shields.io/badge/aws--extend--switch--roles-tilfinltd%2Faws--extend--switch--roles-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tilfinltd/aws-extend-switch-roles)
